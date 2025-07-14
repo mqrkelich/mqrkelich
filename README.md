@@ -2,8 +2,6 @@
 
 Hi i'm mqrkelich, i'm a full stack developer, i love to make websites. I used to make discord bots in my free time.
 
-[![Neighborhood HackClub](https://images.fillout.com/orgid-81/flowpublicid-2d6RsxRU3ius/widgetid-gHXJ/wLL8YM3u5TEHNwmmey7cHo/summer25.png?a=4hit9PajYRUKJJYwW78gvU)](http://neighborhood.hackclub.com/)
-
 # 🛠️ Tools & Technologies
 Tools and techonologies I've used.
 <details>
