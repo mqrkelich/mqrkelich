@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Matias Markelic - ships fast, holds up.">
+  <title>Matias Markelic - full-stack developer &amp; designer</title>
+
+  <!-- INK -->
+  <rect width="1280" height="400" fill="#0A0A0A"/>
+
+  <!-- PRSTENOVI 1 : 1,618 : 2,618 - srediste izvan formata, debljina opada prema van -->
+  <g fill="none">
+    <circle cx="1330" cy="430" r="131" stroke="#22412F" stroke-width="2"/>
+    <circle cx="1330" cy="430" r="212" stroke="#22412F" stroke-width="1.6"/>
+    <circle cx="1330" cy="430" r="343" stroke="#16291E" stroke-width="1.2"/>
+  </g>
+
+  <!-- NODE na orbiti -->
+  <circle cx="1180" cy="280" r="5" fill="#4E9B72"/>
+
+  <!-- ZNAK: M u prstenu, D = 44 -->
+  <g transform="translate(107,68)">
+    <circle cx="22" cy="22" r="20.68" fill="none" stroke="#FFFFFF" stroke-width="2.64"/>
+    <text x="22" y="30.3" text-anchor="middle" fill="#FFFFFF"
+          font-family="Montserrat, 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+          font-weight="900" font-size="23">M</text>
+    <circle cx="36.6" cy="7.4" r="2.64" fill="#4E9B72"/>
+  </g>
+
+  <!-- LOGOTIP -->
+  <text x="167" y="99" fill="#FFFFFF"
+        font-family="Montserrat, 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="900" font-size="26" letter-spacing="-0.5">MATIAS MARKELIC</text>
+
+  <!-- LOKACIJA -->
+  <text x="1173" y="95" text-anchor="end" fill="#7A7A7A"
+        font-family="Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="600" font-size="12" letter-spacing="5">TUZLA / REMOTE WORLDWIDE</text>
+
+  <!-- H1 DISPLAY - LH 0,92 - TR -2% -->
+  <g fill="#FFFFFF"
+     font-family="Montserrat, 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+     font-weight="900" font-size="88" letter-spacing="-1.76">
+    <text x="107" y="219">SHIPS FAST.</text>
+    <text x="107" y="300">HOLDS UP.</text>
+  </g>
+
+  <!-- DESKRIPTOR -->
+  <text x="107" y="342" fill="#7A7A7A"
+        font-family="Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="600" font-size="13" letter-spacing="5.5">FULL-STACK DEVELOPER &amp; DESIGNER</text>
+</svg>
